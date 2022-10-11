@@ -119,7 +119,7 @@ const Home = () => {
 					<div className="flex">
 						<Image src="/images/Rectangle 17.png" width={50} height={50} alt='top-chart-image' />
 						<div className="ml-4">
-							<h5 className="text-[17px] leading-[120%] text-white">Tommorow's tunes</h5>
+							<h5 className="text-[17px] leading-[120%] text-white">Tommorow&apos;s tunes</h5>
 							<p className="mini-text text-[12px] leading-[120%]">Obi Datti</p>
 							<p className="text-[14px] leading-[120%] text-white">2:01:25</p>
 						</div>
