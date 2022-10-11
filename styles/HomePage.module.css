@@ -1,0 +1,19 @@
+
+.inputSearch{
+	background-image: url("../public/search-svgrepo-com.svg");
+	background-repeat: no-repeat;
+	background-size: 15px;
+	padding-left: 1.5rem;
+	background-position: 0 center;
+}
+@media screen and (max-width:768px){
+	.inputSearch{
+		background-position: right 0 top 5px;
+		width: 100%;
+	}
+
+	.inputSearch::placeholder{
+		color: #fff;
+		}
+
+}
